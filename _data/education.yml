@@ -1,13 +1,26 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Master of Science, Landscape Ecology
+  uni: University of Münster
+  year: 2019 &mdash; present
+  summary: Specialization in Remote Sensing, Restoration Ecology, and Soil Science
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Science, Landscape Ecology
+  uni: University of Münster
+  year: 2019 &mdash; 2022
+  GPA: Ø1,4
+  summary: Bachelor thesis in remote sensing
+
+- degree: Abitur (German High School Diploma)
+  school: Integrierte Gesamtschule Paffrath
+  city: Bergisch Gladbach
+  year: 2018
+  GPA: Ø 1,7
+  summary: Advanced-Level Courses in Mathematics and Geography
+
+- Study Abroad Year: Norkam Secondary School
+  city: Kamloops, Canada
+  year: 2015 &mdash; 2016
+
+- Primary school: GGS Hebborn
+  city: Bergisch Gladbach
+  year: 2005 &mdash; 2009
