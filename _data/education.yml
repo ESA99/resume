@@ -11,16 +11,18 @@
   summary: Bachelor thesis in remote sensing
 
 - degree: Abitur (German High School Diploma)
-  school: Integrierte Gesamtschule Paffrath
+  uni: Integrierte Gesamtschule Paffrath
   city: Bergisch Gladbach
   year: 2018
   GPA: Ø 1,7
   summary: Advanced-Level Courses in Mathematics and Geography
 
-- Study Abroad Year: Norkam Secondary School
+- degree: Study Abroad Year
+  uni: Norkam Secondary School
   city: Kamloops, Canada
   year: 2015 &mdash; 2016
 
-- Primary school: GGS Hebborn
+- degree: Primary School
+  uni: GGS Hebborn
   city: Bergisch Gladbach
   year: 2005 &mdash; 2009
