@@ -1,23 +1,27 @@
 # Jobs
 # Self-employment
 - company: LÖGI Landschaftsökologie
-  founded: 2022
+  position: Self employment
+  duration: 2022
+  summary: 
   
 
 # Freelance Cartographer
-- partner: LAKI GbR
-  projects: Biotope mapping in Uelzen district, Biotope mapping of "Biosphere Reserve Lower Saxon Elbe Valley"
+- company: LAKI GbR
+  position: Partner
   duration: May, 2023 &mdash; Jul, 2023
-  summary: Ecological mappings in western Lower Saxony. 
+  summary: Biotope mapping in Uelzen district, Biotope mapping of "Biosphere Reserve Lower Saxon Elbe Valley"
+  #summary: Ecological mappings in western Lower Saxony. 
 
 # Internship in remote sensing
 - company: EFTAS Fernerkundung Technologietransfer GmbH
   position: Intern
   duration:  Oct, 2021 &mdash; Nov, 2021
-  summary: 
+  summary: Independent development of a workflow for model verification, the creation of a cloud filter, and gaining familiarity with various remote sensing software tools.
 
 
 # Work & Travel
-- location: Sweden
+- company: Work & Travel
+  position: Sweden
   duration: Mar, 2019  &mdash; Jul, 2019
   summary: Varying activities on several farms ranging from animal care to handicraft work and gardening.
